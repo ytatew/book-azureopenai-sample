@@ -4,5 +4,5 @@ Python src/ch5/code/openai-api-call.py `
 --client_secret <CLIENT_SECRET> `
 --redirect_uri <REDIRECT_URI> `
 --scope <SCOPE> `
---endpoint <ENDPOINT> `
+--apim_name <APIM_NAME> `
 --subscription_key <SUBSCRIPTION_KEY>
