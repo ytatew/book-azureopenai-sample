@@ -1,4 +1,4 @@
-Python src/ch5/code/openai-api-call.py `
+Python code/openai_api_call.py `
 --tenant_id <TENANT_ID> `
 --client_id <CLIENT_ID> `
 --client_secret <CLIENT_SECRET> `
